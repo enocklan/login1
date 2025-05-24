@@ -16,8 +16,6 @@ This project is a simple and stylish login page built using **HTML** and **CSS**
 - HTML5
 - CSS3
 
-## 📁 Folder Structure
-
 ✍️ Author
 Enock Lan
 
@@ -26,9 +24,6 @@ GitHub: @enocklan
 📄 License
 This project is open source and available under the MIT License.
 
-yaml
-Copy
-Edit
 
 ---
 
