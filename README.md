@@ -23,15 +23,3 @@ GitHub: @enocklan
 
 📄 License
 This project is open source and available under the MIT License.
-
-
----
-
-Let me know if you want the README tailored to include deployment instructions (e.g., GitHub Pages), or enhanced with badges, live preview links, etc.
-
-
-
-
-
-
-
